@@ -1,0 +1,6 @@
+path: D:\DATA\YOLOV8\SeSegmentation\K5\data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['lake']
