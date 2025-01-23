@@ -1,1 +1,2 @@
-This repository provides a guideline for training YOLOv8 lake segmentation using SAR remote sensing of Kompsat-5 (training data included).
+This repository provides a guideline for training YOLOv8 lake segmentation using SAR remote sensing of Kompsat-5 (training data included) based on the original source of https://github.com/ultralytics. We deeply thanks for the model development!
+Authors should refer to the official website of ULTRALYTICS for the original model code and instructions. https://docs.ultralytics.com/, https://github.com/ultralytics/ultralytics
